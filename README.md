@@ -18,8 +18,8 @@
 				<div class="more-features">
 					<h3>Demo</h3>
 					<ul>
-						<li>frontend demo - <a href="http://autorelated.demo10.b7fb87dd732790222.temporary.link/deion-long-sleeve-evercool-trade-tee.html/#relatedProductsDiv">http://autorelated.demo10.b7fb87dd732790222.temporary.link/deion-long-sleeve-evercool-trade-tee.html/#relatedProductsDiv</a></li>
-						<li>backend demo - <a href="https://demo10.b7fb87dd732790222.temporary.link/adminsession?un=autorelproduct_admin&ps=admin123">https://demo10.b7fb87dd732790222.temporary.link/adminsession?un=autorelproduct_admin&ps=admin123</a></li>
+						<li>Frontend demo - <a href="http://autorelated.demo10.b7fb87dd732790222.temporary.link/deion-long-sleeve-evercool-trade-tee.html/#relatedProductsDiv">http://autorelated.demo10.b7fb87dd732790222.temporary.link/deion-long-sleeve-evercool-trade-tee.html/#relatedProductsDiv</a></li>
+						<li>Backend demo - <a href="https://demo10.b7fb87dd732790222.temporary.link/adminsession?un=autorelproduct_admin&ps=admin123">https://demo10.b7fb87dd732790222.temporary.link/adminsession?un=autorelproduct_admin&ps=admin123</a></li>
 					</ul>
 				</div>
 			</div>
